@@ -12,5 +12,5 @@ To run the scala version:
 
 For 100 iterations:
 
-Ruby: 2.15s
-Scala: 3.26ms
+* Ruby: 2.15**s**
+* Scala: 3.26**ms**
